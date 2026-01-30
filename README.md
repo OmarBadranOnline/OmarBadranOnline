@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Omar Badran**
 
-### 🔐 Application Security | Cybersecurity | OSINT | Web Development
+### 🔐 Application Security | Cybersecurity | OSINT | Secure Web Development
 
 <p align="center">
   <a href="https://github.com/OmarBadranOnline">
@@ -24,14 +24,14 @@
 
 ## 🚀 About Me
 
-🎓 **B.Sc. Information Technology**
-📍 Alexandria, Egypt
-🛡️ **Security-focused developer & Application Security Specialist**
+🎓 **B.Sc. Information Technology**  
+📍 Alexandria, Egypt  
+🛡️ **Application Security Specialist & Cybersecurity Engineer**
 
-I specialize in **Application Security, Ethical Hacking, IT Governance, and Secure Web Development**.
-My work bridges **offensive security, defensive architecture, and real-world business systems**.
+I focus on **building, breaking, and securing real-world systems**.  
+My background combines **AppSec, ethical hacking, governance, and high-performance web development**.
 
-> *“Security is not a feature — it’s a mindset.”*
+> _Security is not optional — it’s engineered._
 
 ---
 
@@ -42,23 +42,21 @@ My work bridges **offensive security, defensive architecture, and real-world bus
 <td width="50%">
 
 ### 🔐 Cybersecurity & GRC
-
-* Application Security
-* Ethical Hacking & Pentesting
-* Threat Modeling & Risk Analysis
-* Encryption & Secure Architectures
-* GDPR / ISO Governance
+- Application Security  
+- Ethical Hacking & Pentesting  
+- Threat Modeling & Risk Analysis  
+- Encryption & Secure Architectures  
+- GDPR / ISO Compliance  
 
 </td>
 <td width="50%">
 
 ### 🌐 Systems & Development
-
-* Secure Web Development
-* Cloud & Network Architecture
-* Linux / Unix / Bash
-* Performance Optimization
-* UX-Aware Engineering
+- Secure Web Development  
+- Cloud & Network Architecture  
+- Linux / Unix / Bash  
+- Performance Optimization  
+- UX-Aware Engineering  
 
 </td>
 </tr>
@@ -69,94 +67,92 @@ My work bridges **offensive security, defensive architecture, and real-world bus
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,linux,git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,linux,git,github,bash,vscode" />
 </p>
 
 ---
 
 ## 🧪 Tools & Platforms
 
-* 🛠️ Git / GitHub
-* 🐧 Linux (Kali, Ubuntu)
-* 🎨 Adobe Photoshop
-* 📊 Web Analytics & Performance Tools
-* 🧠 OSINT Frameworks & Security Labs
+- 🐧 Linux (Kali, Ubuntu)
+- 🛡️ Security Testing Tools
+- 🔍 OSINT Frameworks
+- 🛠️ Git / GitHub
+- 🎨 Adobe Photoshop
+- 📊 Web Analytics & Performance Tools
 
 ---
 
-## 🧩 Professional Experience
+## 💼 Professional Experience
 
-### 🔒 Application Security Specialist
-
+### 🔒 Application Security Specialist  
 **Major Travel & Tourism Company**
 
-* Designed **end-to-end security architecture** for B2B booking systems
-* Implemented **financial data encryption & leak prevention**
-* Continuous monitoring & vulnerability mitigation
+- Designed **end-to-end security architecture** for B2B booking systems  
+- Implemented **encryption for sensitive financial data**  
+- Continuous monitoring & vulnerability mitigation  
 
 ---
 
-### 👨‍🏫 Programming Instructor
-
+### 👨‍🏫 Programming Instructor  
 **Eraa Soft Academy**
 
-* Delivered hands-on courses in **programming & web development**
-* Mentored students in **debugging & secure coding practices**
+- Delivered hands-on programming & web development courses  
+- Mentored students in **secure coding & debugging**  
 
 ---
 
 ### 🌐 Web Developer & Marketing Specialist
 
-* Built **high-performance websites** with security in mind
-* Improved UX, load speed & engagement through analytics
+- Built **secure, high-performance websites**  
+- Optimized UX, load speed & engagement using analytics  
 
 ---
 
 ## 🏆 Leadership & Entrepreneurship
 
-🚀 **Founder / C-Level Roles**
-
-* CEO & Founder: **Online Now**, **Magara Academy**, **TYW**
-* Co-Founder: **Live In Mars**
+🚀 **Founder / C-Level**
+- CEO & Founder: Online Now, Magara Academy, TYW  
+- Co-Founder: Live In Mars  
 
 📢 **Marketing & Strategy**
+- Marketing Director – Wikistage (E-JUST)
+- Marketing Manager – Unit Enterprise  
 
-* Marketing Director – Wikistage (E-JUST)
-* Marketing Manager – Unit Enterprise
-
-🎤 **Public Speaker**
-
-* Speaker at **CONNECTAIK**
-* Organizer at **TEDx Zewail City**
+🎤 **Public Speaking**
+- Speaker at CONNECTAIK  
+- Organizer at TEDx Zewail City  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarBadranOnline&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarBadranOnline&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=OmarBadranOnline&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=OmarBadranOnline&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
 </p>
 
 ---
 
 ## 🧠 Currently Exploring
 
-* Advanced **Application Security Testing**
-* OSINT Automation with Python
-* Secure Cloud Architectures
-* Red / Blue Team Operations
+- Advanced Application Security Testing  
+- OSINT Automation with Python  
+- Secure Cloud Architectures  
+- Red Team / Blue Team Operations  
 
 ---
 
 ## 🤝 Let’s Connect
 
-📧 **Email:** [omar.badran.contact@gmail.com](mailto:omar.badran.contact@gmail.com)
-💼 **LinkedIn:** *Professional Profile*
-🌐 **GitHub:** [github.com/OmarBadranOnline](https://github.com/OmarBadranOnline)
+📧 **Email:** omar.badran.contact@gmail.com  
+💼 **GitHub:** https://github.com/OmarBadranOnline  
 
 ---
 
@@ -164,6 +160,6 @@ My work bridges **offensive security, defensive architecture, and real-world bus
 
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
 
-### ⭐ If you like my work, consider starring my repositories ⭐
+### ⭐ Star my repositories if you find them useful ⭐
 
 </div>
